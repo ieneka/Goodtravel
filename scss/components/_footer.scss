@@ -1,0 +1,23 @@
+/*FOOTER*/
+#footer{
+    min-height: 10rem;
+    background-color:#ce9e20 ;
+    color: #58430a;
+    box-shadow:5px 5px 15px 5px rgba(0,0,0,0.58);
+}
+#footer h1{
+    font-weight: 200;
+}
+#footer a{
+    text-decoration: none;
+    color: #58430a;
+    margin: 0.5rem;
+}
+#footer a i:hover{
+    color: #58430a;
+}
+#footer a i{
+    font-size: 3rem;
+    color:#9ADBDE;
+    padding:1rem;
+}

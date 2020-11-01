@@ -1,0 +1,21 @@
+/*LINK*/
+#link{
+    background-color: #ce9e20;
+    min-height: 70px;
+    color: #ce9e20 ;
+    box-shadow:1px 2px 10px 0px #444;
+}
+#link .btn{
+    background-color: #ce9e20;
+    color:white;
+    font-weight: 300;
+    border: none;
+}
+#link .btn img{
+    height: 60px;
+}
+#link .btn:hover{
+    opacity: 0.8;
+    background-color: #9ADBDE;
+    color: #58430a;
+}

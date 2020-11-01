@@ -1,0 +1,40 @@
+#carousel img{
+    max-height: 40rem;
+    min-height: 20rem;
+}
+#carousel .carousel-caption h5{
+    font-size: 3rem;
+    color: #ce9e20;
+    font-weight: 400;
+}
+/*BLOG*/
+#carousel .carousel-caption p{
+    font-size: 2rem;
+    color: #58430a ;
+    font-weight: 300;
+}
+#carousel .carousel-caption .btn{
+    background-color: #ce9e20;
+    color: white;
+    border: 1px solid #9ADBDE;
+}
+#carousel .carousel-caption .btn:hover{
+    background-color:white;
+    color: #58430a ;
+}
+#blog .card{
+    margin: 1rem;
+    color: black;
+}
+#blog .card i{
+    font-size: 1rem;
+}
+#blog .card-footer{
+    margin-top: none;
+}
+#blog img{
+    max-height:12rem;
+}
+#blog a{
+    margin: 1rem;
+}

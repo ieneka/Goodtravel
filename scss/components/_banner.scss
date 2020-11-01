@@ -1,0 +1,33 @@
+/*BANNER*/
+#banner{
+    box-shadow: 2px 2px 5px #999;
+    min-height: 500px;
+    background-image: url(/img/2395219.jpg);
+    background-size: 100%;
+    background-position: center;
+    justify-content: center;
+    box-shadow:0px 0px 4px 0px #333 inset;
+   
+}
+#banner .card{
+    margin: 1rem;
+    box-shadow: 2px 2px 5px #999;
+    color: black;
+}
+#banner-contacto{
+    background-image: url(/img/2395219.jpg);
+    background-position: center;
+    background-size: 120rem;
+}
+#banner-que-ver{
+    background-image: url(/img/EGIPTO-PORTADA.jpg);
+    background-position: center;
+    background-size: 120rem;
+    height: 40rem;
+}
+#banner-barcelona{
+    background-image: url(/img/barcelona-portada.jpg);
+    background-position: center;
+    background-size: 120rem;
+    height: 40rem;
+}
